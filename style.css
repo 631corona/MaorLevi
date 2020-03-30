@@ -1,0 +1,15 @@
+{margin : 0px; padding : 0 px;}
+html,body
+{
+    width: 100%;
+    height: 100%;
+}
+body{
+ background-image: url(back.jpg);
+ background-size: cover;
+ background-position: center;
+}
+button{
+    position: relative;
+    z-index: 999;
+}
